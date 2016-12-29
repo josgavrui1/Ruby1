@@ -2,6 +2,9 @@ html,body{
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
+.red{
+  color:red;
+}
 .btn{
   background-color:inherit;
   border:none;
@@ -16,11 +19,11 @@ html,body{
 .white{
   color:white;
 }
+
 .large-padding{
   padding:8px 5px;
 }
 a,a:visited{
-  color:inherit;
   text-decoration:none;
 }
 #logo{
